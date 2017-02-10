@@ -1,4 +1,6 @@
 # attract-blender-addon
+Installation requires the attract SDK to be installed. It can either be installed regularly somewhere on the Python PATH, or be stored as a wheel file at blender_cloud/attract_sdk-*.whl.
+
 Attract integration for Blender VSE. Contribute to attract-blender-addon development by creating an account on GitHub.
 
 Revert to use blender id as string 
